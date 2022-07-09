@@ -1,0 +1,26 @@
+{
+    "problem": "https://acmicpc.net/problem/1000",
+    "problem_title": "A+B",
+    "problem_number": "1000",
+    "input": [
+        {
+            "rank": 0,
+            "length": [],
+            "format": "integer",
+            "parameter": "A"
+        },
+        {
+            "rank": 0,
+            "length": [],
+            "format": "integer",
+            "parameter": "B"
+        }
+    ],
+    "output": [
+        {
+            "rank": 0,
+            "length": [],
+            "format": "integer"
+        }
+    ]
+}
