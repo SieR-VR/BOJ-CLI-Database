@@ -1,0 +1,43 @@
+{
+    "problem": "https://acmicpc.net/problem/1031",
+    "problem_title": "스타 대결",
+    "problem_number": "1031",
+    "input": [
+        {
+            "rank": 0,
+            "length": [],
+            "format": "integer",
+            "parameter": "N"
+        },
+        {
+            "rank": 0,
+            "length": [],
+            "format": "integer",
+            "parameter": "M"
+        },
+        {
+            "rank": 1,
+            "length": ["N"],
+            "format": "integer",
+            "parameter": "N_list"
+        },
+        {
+            "rank": 1,
+            "length": ["M"],
+            "format": "integer",
+            "parameter": "M_list"
+        }
+    ],
+    "output": [
+        {
+            "rank": 2,
+            "length": ["N", "M"],
+            "format": "integer"
+        },
+        {
+            "rank": 0,
+            "length": [],
+            "format": "integer"
+        }
+    ]
+}
