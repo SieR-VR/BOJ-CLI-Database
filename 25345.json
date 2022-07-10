@@ -1,0 +1,32 @@
+{
+    "problem": "https://acmicpc.net/problem/25345",
+    "problem_title": "루나의 게임 세팅",
+    "problem_number": "25345",
+    "input": [
+        {
+            "rank": 0,
+            "length": [],
+            "format": "integer",
+            "parameter": "K"
+        },
+        {
+            "rank": 0,
+            "length": [],
+            "format": "integer",
+            "parameter": "N"
+        },
+        {
+            "rank": 1,
+            "length": ["K"],
+            "format": "integer",
+            "parameter": "A"
+        }
+    ],
+    "output": [
+        {
+            "rank": 0,
+            "length": [],
+            "format": "integer"
+        }
+    ]
+}
